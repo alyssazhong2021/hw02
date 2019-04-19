@@ -1,0 +1,112 @@
+h1 {
+  font-size:60px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 800;
+  background-color:#426e86 ;
+  padding: 50px;
+  margin-bottom: 0;
+  color: #f8f1e5;
+  margin-top: 0;
+  }
+
+body {margin: 0px;}
+
+header {border-style: solid}
+
+
+nav{
+  font-size: 18px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 100*/Thin*/
+}
+
+
+.author {font-size: 25px;
+        font-family: 'Alegreya Sans', sans-serif;
+        font-weight: 800;
+        color: #f9ba32;
+        margin: 20px;}
+
+.author2 {font-size: 25px;
+        font-family: 'Alegreya Sans', sans-serif;
+        font-weight: 800;
+        color: #f9ba32;}
+
+.hamburger1 {float: right;
+            width: 500px;
+            height: 250px;}
+
+.hamburger2 {float: right;
+              width: 600px;
+              height: 350px;
+              margin-left: 20px;
+              margin-bottom: 20px;}
+
+.text2 {margin: 30px;
+        font-size: 20px;
+        padding: 20px}
+
+.text1 {border-top-style: dotted;
+        border-bottom-style: dotted;
+        height: 250px;
+        padding-left: 0;
+        margin-left: 0;
+        margin-right: 0;}
+
+.text3 {border-top-style: : dotted;
+        border-bottom-style: dotted;
+        margin-top: 10px;}
+
+.text4 {font-size: 100px;}
+.div {width: 40vw}
+
+table {border-collapse: collapse;
+      border-color: white;
+      border-radius: 5px;}
+
+td {padding: 10px;
+    background-color: #232122;}
+
+
+.clickable {font-family:'Alegreya Sans', sans-serif;
+            font-weight: 300;
+            color: #f8f1e5}
+
+.clickable2 {font-family:'Alegreya Sans', sans-serif;
+            font-weight: 400;
+            color: #f9ba32;
+          }
+.cardpicture {display: block;
+  margin-left: auto;
+  margin-right: auto;}
+
+.flowers {height: 300px;
+        width: 250px;}
+
+p {font-size: 18px;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-weight: 400;}
+
+html {background-color: #f8f1e5}
+
+.cards {
+   grid-area: cards;
+   border: solid 3px #f9ba32;
+   display: inline-block;
+   box-sizing: border-box;
+   padding: 10px;
+   font-size: 25px;
+   font-family: 'Alegreya Sans', sans-serif;
+   font-weight: 800;
+   color: #f9ba32;
+}
+
+.notableworks {font-size:30px;
+              font-family: 'Alegreya Sans', sans-serif;
+              font-weight: 800;
+              color: #426e86;}
+
+.list {font-size: 20px;
+      font-family: 'Alegreya Sans', sans-serif;
+      font-weight: 400;
+      color: #426e86;}
